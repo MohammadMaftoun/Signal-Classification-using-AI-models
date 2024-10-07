@@ -1,7 +1,7 @@
 # Signal-Classification-using-AI-models
 This repository provides an AI-driven approach to classify various signal types, including audio, sensor, and time-series data. Leveraging deep learning techniques such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and transformers, this project enables accurate identification and classification of signals across diverse domains (e.g., audio recognition, ECG, EEG, vibration data).
 
-![SPC](https://blogs.mathworks.com/deep-learning/files/2019/05/workflow.png)
+![SPC](https://www.frontiersin.org/files/Articles/546769/fnsys-14-00043-HTML/image_m/fnsys-14-00043-g001.jpg)
 
 # Features:
 * Preprocessing Pipelines: Efficient feature extraction and normalization of raw signals.
