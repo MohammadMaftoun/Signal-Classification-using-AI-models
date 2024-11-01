@@ -20,7 +20,7 @@ TensorFlow / PyTorch
 Scikit-learn, NumPy, Pandas
 # Getting Started:
 * Clone the repository.
-* Prepare your dataset or utilize provided sample datasets.
+* Prepare your dataset or utilize the provided sample datasets.
 * Train the model using predefined scripts.
 * Evaluate the model and export it for deployment.
 
